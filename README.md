@@ -1,4 +1,4 @@
-### 🚨🚨🚨 Cool Programmer Alert 🚨🚨🚨
+### 🚨🚨🚨 Best Friend Alert 🚨🚨🚨
 
 Hi there, I'm [Tim Holman](https://tholman.com), a creative developer who loves to dabble in the weird and wonderful... Especially the weird.
 
