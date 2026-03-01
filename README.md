@@ -1,24 +1,4 @@
 <pre>
-
-  ╔═════════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                                 ║
-  ║                        <a href="https://tholman.com">tholman.com</a>  ·  <a href="https://bsky.app/profile/aussie.bsky.social">bsky</a>  ·  <a href="https://twitter.com/twholman">twholman</a>                        ║
-  ║                                                                                 ║
-  ╠═════════════════════════════════════════════════════════════════════════════════╣
-  ║                                                                                 ║
-  ║      ███████ ███ █     █   █     █  █████  █       █     █  █████  █     █      ║
-  ║         █     █  ██   ██   █     █ █     █ █       ██   ██ █     █ ██    █      ║
-  ║         █     █  █ █ █ █   █     █ █     █ █       █ █ █ █ █     █ █ █   █      ║
-  ║         █     █  █  █  █   ███████ █     █ █       █  █  █ ███████ █  █  █      ║
-  ║         █     █  █     █   █     █ █     █ █       █     █ █     █ █   █ █      ║
-  ║         █     █  █     █   █     █ █     █ █       █     █ █     █ █    ██      ║
-  ║         █    ███ █     █   █     █  █████  ███████ █     █ █     █ █     █      ║
-  ║                                                                                 ║
-  ║                         tinkerer  ·  tuner  ·  tamperer                         ║
-  ║                                                                                 ║
-  ╠═════════════════════════════════════════════════════════════════════════════════╣
-
-
   <a href="https://github.com/tholman/elevator.js">┌─────┐</a>                                   <a href="https://github.com/tholman/giflinks">┌─────┐</a>           <a href="https://github.com/tholman/mosquito-js">┌─────┐</a>                
   <a href="https://github.com/tholman/elevator.js">│░░░░░│</a>         <a href="https://github.com/tholman/cursor-effects">┌─────┐</a>           <a href="https://github.com/tholman/intense-images">┌─────┐</a> <a href="https://github.com/tholman/giflinks">│░░░░░│</a>           <a href="https://github.com/tholman/mosquito-js">│▓▓▓▓▓│</a>                
   <a href="https://github.com/tholman/elevator.js">│░ E ░│</a> <a href="https://github.com/tholman/github-corners">┌─────┐</a> <a href="https://github.com/tholman/cursor-effects">│▒▒▒▒▒│</a> <a href="https://github.com/tholman/zenpen">┌───────┐</a> <a href="https://github.com/tholman/intense-images">│▓▓▓▓▓│</a> <a href="https://github.com/tholman/giflinks">│░ G ░│</a> <a href="https://github.com/tholman/generative-artistry">┌───────┐</a> <a href="https://github.com/tholman/mosquito-js">│▓ M ▓│</a>                
