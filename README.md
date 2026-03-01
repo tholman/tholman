@@ -11,13 +11,13 @@
 
 ```
 
-### 👋 Hey! I'm Tim.
+### Hey! I'm Tim.
 
 A creative engineer in New York who builds **strange and delightful things** for the web. Senior VP of UI & UX by day, reckless internet experimenter by night. I believe the web should be fun, and I'm doing my part — one silly project at a time.
 
 ---
 
-### 🏆 The Greatest Hits
+### The Greatest Hits
 
 | | Project | What it does | |
 |---|---------|-------------|---|
@@ -29,7 +29,7 @@ A creative engineer in New York who builds **strange and delightful things** for
 
 ---
 
-### 🧪 The Lab
+### The Lab
 
 The weird stuff. The good stuff.
 
@@ -45,7 +45,7 @@ The weird stuff. The good stuff.
 
 ---
 
-### 🎨 The Creative Corner
+### The Creative Corner
 
 - 🌀 **[Generative Artistry](https://generativeartistry.com/)** — Tutorials & podcast about generative art. Learn to make beautiful things with code.
 - 🎉 **[React Confetti](https://tholman.com/react-confetti/)** — Confetti for the good times.
@@ -55,7 +55,7 @@ The weird stuff. The good stuff.
 
 ---
 
-### 🌐 The Useless (But Important) Web
+### The Useless (But Important) Web
 
 - 🐶 **[Long Doge Challenge](https://longdogechallenge.com/)** — A very long and difficult goal-based game.
 - 💣 **[One Square Minesweeper](https://onesquareminesweeper.com)** — Minesweeper, but with one square.
@@ -64,8 +64,6 @@ The weird stuff. The good stuff.
 - 🔥 **[The Indie Web](https://theindieweb.com/)** — A hotspot for indie creations on the web.
 
 ---
-
-### 📊 By The Numbers
 
 <p align="center">
   <a href="https://tholman.com">🥔 tholman.com</a> · <a href="https://bsky.app/profile/tholman.com">🦋 bluesky</a> · <a href="https://twitter.com/twholman">🐦 @twholman</a>
