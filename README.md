@@ -6,13 +6,15 @@
   ║                                                                                 ║
   ╠═════════════════════════════════════════════════════════════════════════════════╣
   ║                                                                                 ║
-  ║             █████ █████ █   █  █   █  ███  █     █   █  ███  █   █              ║
-  ║               █     █   ██ ██  █   █ █   █ █     ██ ██ █   █ ██  █              ║
-  ║               █     █   █ █ █  █████ █   █ █     █ █ █ █████ █ █ █              ║
-  ║               █     █   █   █  █   █ █   █ █     █   █ █   █ █  ██              ║
-  ║               █   █████ █   █  █   █  ███  █████ █   █ █   █ █   █              ║
+  ║      ███████ ███ █     █   █     █  █████  █       █     █  █████  █     █      ║
+  ║         █     █  ██   ██   █     █ █     █ █       ██   ██ █     █ ██    █      ║
+  ║         █     █  █ █ █ █   █     █ █     █ █       █ █ █ █ █     █ █ █   █      ║
+  ║         █     █  █  █  █   ███████ █     █ █       █  █  █ ███████ █  █  █      ║
+  ║         █     █  █     █   █     █ █     █ █       █     █ █     █ █   █ █      ║
+  ║         █     █  █     █   █     █ █     █ █       █     █ █     █ █    ██      ║
+  ║         █    ███ █     █   █     █  █████  ███████ █     █ █     █ █     █      ║
   ║                                                                                 ║
-  ║                           tinkerer · tuner · tamperer                           ║
+  ║                         tinkerer  ·  tuner  ·  tamperer                         ║
   ║                                                                                 ║
   ╠═════════════════════════════════════════════════════════════════════════════════╣
   ║                                                                                 ║
@@ -79,8 +81,9 @@
   <a href="https://github.com/tholman/the-zen-zone">└─────┘</a> <a href="https://github.com/tholman/thats-the-finger">└─────┘</a> <a href="https://github.com/tholman/unicoder.js">└───────┘</a> <a href="https://github.com/tholman/checkboxrace">└─────┘</a> <a href="https://github.com/tholman/one-square-minesweeper">└─────┘</a> <a href="https://github.com/tholman/office-simulator">└───────┘</a> <a href="https://github.com/tholman/buddy">└─────┘</a> <a href="https://github.com/tholman/tetris-pieces">└─────┘</a> <a href="https://github.com/tholman/binary-music-player">└─────┘</a> <a href="https://github.com/tholman/palettab">└─────┘</a>
   ═══════════════════════════════════════════════════════════════════════════════════
   ║                                                                                 ║
-  ║   <a href="https://github.com/tholman/the-zen-zone">the-zen-zone</a> · <a href="https://github.com/tholman/thats-the-finger">thats-the-finger</a> · <a href="https://github.com/tholman/unicoder.js">unicoder.js</a> · <a href="https://github.com/tholman/checkboxrace">checkboxrace</a> · <a href="https://github.com/tholman/one-square-minesweeper">one-square-minesweeper</a>║
-  ║   <a href="https://github.com/tholman/office-simulator">office-simulator</a> · <a href="https://github.com/tholman/buddy">buddy</a> · <a href="https://github.com/tholman/tetris-pieces">tetris-pieces</a> · <a href="https://github.com/tholman/binary-music-player">binary-music-player</a> · <a href="https://github.com/tholman/palettab">palettab</a>     ║
+  ║   <a href="https://github.com/tholman/the-zen-zone">the-zen-zone</a> · <a href="https://github.com/tholman/thats-the-finger">thats-the-finger</a> · <a href="https://github.com/tholman/unicoder.js">unicoder.js</a> · <a href="https://github.com/tholman/checkboxrace">checkboxrace</a>                  ║
+  ║   <a href="https://github.com/tholman/one-square-minesweeper">o-s-minesweeper</a> · <a href="https://github.com/tholman/office-simulator">office-simulator</a> · <a href="https://github.com/tholman/buddy">buddy</a> · <a href="https://github.com/tholman/tetris-pieces">tetris-pieces</a>                    ║
+  ║   <a href="https://github.com/tholman/binary-music-player">binary-music-player</a> · <a href="https://github.com/tholman/palettab">palettab</a>                                                ║
   ║                                                                                 ║
 
 
