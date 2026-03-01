@@ -2,7 +2,7 @@
 
   ╔═════════════════════════════════════════════════════════════════════════════════╗
   ║                                                                                 ║
-  ║                        <a href="https://tholman.com">tholman.com</a>  ·  <a href="[https://bsky.app/profile/tholman.com](https://bsky.app/profile/aussie.bsky.social)">bsky</a>  ·  <a href="https://twitter.com/twholman">twholman</a>                        ║
+  ║                        <a href="https://tholman.com">tholman.com</a>  ·  <a href="https://bsky.app/profile/aussie.bsky.social">bsky</a>  ·  <a href="https://twitter.com/twholman">twholman</a>                        ║
   ║                                                                                 ║
   ╠═════════════════════════════════════════════════════════════════════════════════╣
   ║                                                                                 ║
